@@ -4,6 +4,13 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 ## Link to the deployed application
 
 [Fitness application](https://fitness-appp.herokuapp.com/)
+
+## Installing 
+- git clone 
+- node and npm install
+- navigate to folder where you cloned the application
+- RUN node server.js
+
 ## Technologies Used
 - JavaScript - Core logic
 - Node and NPM
